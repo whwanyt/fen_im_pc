@@ -1,6 +1,6 @@
 # pc-client
 
-An Electron application with Vue and TypesSript
+PC IM chat page built with elctron, socket-IO, Electronic-Vite and Vue, and file management for uploading file slices
 
 ## Recommended IDE Setup
 
